@@ -1,0 +1,10 @@
+package k5;
+
+public class Bruch_ausgabe {
+
+    public static void main(String[] args) {
+	// TODO Auto-generated method stub
+
+    }
+
+}

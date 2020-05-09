@@ -1,0 +1,14 @@
+package k5;
+
+public class Bruch {
+    int n, m, r;
+    int zaehler;
+    int nenner;
+    
+    void ausgabe() {
+	System.out.print(zaehler + "/" + nenner);
+    }
+    
+     
+
+}

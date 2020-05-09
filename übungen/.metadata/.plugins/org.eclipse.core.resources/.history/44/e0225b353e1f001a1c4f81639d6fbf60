@@ -1,0 +1,12 @@
+package k5;
+
+public class Bruch_ausgabe {
+
+    public static void main(String[] args) {
+	Bruch b = new Bruch();
+	b.zaehler = 2;
+	b.nenner = 5;
+	b.ausgabe();
+    }
+
+}

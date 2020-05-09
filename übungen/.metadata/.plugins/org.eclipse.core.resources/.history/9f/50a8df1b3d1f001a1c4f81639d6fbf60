@@ -1,0 +1,17 @@
+package k5;
+
+public class Bruch {
+    int ggt;
+    int zaehler;
+    int nenner;
+    
+    void ausgabe() {
+	System.out.print(zaehler + "/" + nenner);
+    }
+    
+    ggt = zaehler % nenner; 
+    
+	
+    }
+
+}
