@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/home/basti07/Dokumente/java/projects/lernen/übungen/.metadata/.plugins/org.eclipse.jdt.core
-485142144.index
-1810734614.index
